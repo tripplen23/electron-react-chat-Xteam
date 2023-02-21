@@ -24,6 +24,7 @@ export default function Navbar() {
           <Link
               to="/register"
               className="btn btn-outline-danger ml-2">
+              Register
           </Link>
           <Link
               to="/login"

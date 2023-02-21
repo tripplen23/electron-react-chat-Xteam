@@ -10,7 +10,7 @@ export default function Home () {
         <JoinedChatsList />
       </div>
       <div className="col-9 fh">
-        <ViewTitle />
+        <ViewTitle text="Choose your channel"/>
         <AvailableChatsList />
       </div>
     </div>
